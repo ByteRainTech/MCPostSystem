@@ -1,5 +1,5 @@
 # MCPostSystem
-> 支持版本: 1.21+（已测试）
+> 支持版本: 1.21+（已测试）<br/>
 > 仅授权<a href="https://www.mcbbs.app">MCBBS 2nd</a>进行转载以及上传资源，其余平台请联系本人后再转载。
 基于Spigot的Minecraft帖子插件——MCPS
 <img src="imgs/1.png">
