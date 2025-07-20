@@ -1,0 +1,12 @@
+name: PostSystem
+version: 1.0
+main: org.plugin.postsystem.PostSystemPlugin
+description: 一个非常便捷的帖子插件，由MCBBS 2nd站长开发~
+api-version: 1.21
+author: ice
+commands:
+  post:
+    description: 帖子系统主命令
+    usage: |
+      /post create <内容>  发表新帖子
+      /post list           查看未读帖子
